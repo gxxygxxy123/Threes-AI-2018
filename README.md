@@ -52,6 +52,7 @@ http://threesjs.com/
 AI訓練中的模擬結果:
 ![alt text](https://imgur.com/bFCAcbw.png)
 
+每個專案中有範例指令供程序使用
 ---------------------------------------------------
 ### 專案一 - 建立Threes!的遊戲環境
 
