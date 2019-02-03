@@ -1,0 +1,5 @@
+./Threes [input-file] [output-file]
+
+example:
+
+./Threes input.txt output.txt

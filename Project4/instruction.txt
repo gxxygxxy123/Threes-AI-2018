@@ -22,6 +22,9 @@ $ ./Threes --play="save=weights.bin"
 To load the weights of player from a file
 $ ./Threes --play="load=weights.bin"
 
+To initialize the weights at the first training and save the file
+$ ./Threes --play="init= save=weights.bin"
+
 To train the network 100000 games, and save the weights to a file
 $ ./Threes --total=100000 --block=1000 --play="save=weights.bin"
 

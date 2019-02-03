@@ -8,6 +8,7 @@ http://threesjs.com/
 AI training Simulation:
 ![alt text](https://imgur.com/bFCAcbw.png)
 
+The instructions are included in each project.
 ---------------------------------------------------
 ### Project1 - The environment of Threes!
 

@@ -16,6 +16,9 @@ $ ./Threes --load=stat.txt --summary
 To display the statistic every 1000 episodes
 $ ./Threes --total=100000 --block=1000
 
+To initialize the weights at the first training and save the file
+$ ./Threes --play="init= save=weights.bin"
+
 To save the weights of player to a file
 $ ./Threes --play="save=weights.bin"
 
